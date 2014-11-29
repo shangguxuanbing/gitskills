@@ -1,0 +1,49 @@
+*   [33mcommit 5f90bf496a020b832d1020dfbea77f1b881c890c[m
+[31m|[m[32m\[m  Merge: 460bd49 cd063af
+[31m|[m [32m|[m Author: caib <958130060@qq.com>
+[31m|[m [32m|[m Date:   Sat Nov 29 17:17:55 2014 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     conflict fixed
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit cd063af2f834c5d6284c38c4f0e6f5e522e47448[m
+[31m|[m [32m|[m Author: caib <958130060@qq.com>
+[31m|[m [32m|[m Date:   Sat Nov 29 17:13:03 2014 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     test branch dev
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit 460bd49be667a90623ba4ca3d65bd726fb20cb22[m
+[32m|[m[32m/[m  Author: caib <958130060@qq.com>
+[32m|[m   Date:   Sat Nov 29 17:15:00 2014 +0800
+[32m|[m   
+[32m|[m       test git master
+[32m|[m    
+*   [33mcommit 4801f2354ab95bbd918f34cc889974020124b464[m
+[33m|[m[34m\[m  Merge: b52ec56 caf14bc
+[33m|[m [34m|[m Author: caib <958130060@qq.com>
+[33m|[m [34m|[m Date:   Sat Nov 29 17:06:29 2014 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     git test branch2
+[33m|[m [34m|[m   
+[33m|[m * [33mcommit caf14bc3c7ae21e205bab1da45c18c78214abd72[m
+[33m|[m [34m|[m Author: caib <958130060@qq.com>
+[33m|[m [34m|[m Date:   Sat Nov 29 17:00:29 2014 +0800
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     fenzhi2 test
+[33m|[m [34m|[m   
+* [34m|[m [33mcommit b52ec56f85919c7d4211165500a4865e0c1faced[m
+[34m|[m[34m/[m  Author: caib <958130060@qq.com>
+[34m|[m   Date:   Sat Nov 29 16:58:34 2014 +0800
+[34m|[m   
+[34m|[m       branch test
+[34m|[m  
+* [33mcommit ad8f506abfecd31697737585846f413a7f91c9ec[m
+[34m|[m Author: caib <958130060@qq.com>
+[34m|[m Date:   Sat Nov 29 16:49:22 2014 +0800
+[34m|[m 
+[34m|[m     test gitSkills
+[34m|[m  
+* [33mcommit d6c92cf54db8e045a7f204456a71bee31be8ca1a[m
+  Author: 上古玄冰 <565611857@qq.com>
+  Date:   Sat Nov 29 16:41:47 2014 +0800
+  
+      Initial commit
